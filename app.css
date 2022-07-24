@@ -1,0 +1,54 @@
+.title {
+    background-color: aliceblue;
+}
+.output {
+    background-color: antiquewhite;
+}
+h1 {
+    color:steelblue;
+}
+h3 {
+    color: darkcyan;
+}
+
+input {
+    width: 100%;
+}
+
+#btn {
+    width: 100px;
+    color: white;
+    background: darkcyan;
+}
+
+.image {
+    position: relative;
+    object-fit: contain;
+    text-align: center;
+    width: min-content;
+    overflow: hidden;
+}
+  
+.bottom {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 3px 3px 0 black
+  }
+ 
+.top {
+    position: absolute;
+    top: 0;
+    text-align: center;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color: white;
+    text-shadow: 3px 3px 0 black
+  }
